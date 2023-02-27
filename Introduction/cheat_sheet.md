@@ -1,7 +1,7 @@
 
-<h3>Anchors<\h3>
+<h3>Anchors</h3>
 
-^   Start of string, or start of line in multi-line pattern
+^   Start of string, or start of line in multi-line pattern<br>
 \A   Start of string
 $   End of string, or end of line in multi-line pattern
 \Z  End of string
